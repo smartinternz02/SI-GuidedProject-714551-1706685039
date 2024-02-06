@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hardcover</name>
+   <tag></tag>
+   <elementGuidId>c612670a-e810-469f-8577-44795924c695</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#a-autoid-6-announce > span.slot-title > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='a-autoid-6-announce']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d1be999-5aca-45d5-ae64-8d344ceef669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hardcover</value>
+      <webElementGuid>37a0fbca-8e33-4c6f-ad0e-e738a1f4ef36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-autoid-6-announce&quot;)/span[@class=&quot;slot-title&quot;]/span[1]</value>
+      <webElementGuid>1434fe0c-43fa-4302-a309-6a0e6fa3785d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='a-autoid-6-announce']/span/span</value>
+      <webElementGuid>ce66c9bd-5be3-407f-bfad-b170892c26d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span/a/span/span</value>
+      <webElementGuid>1c2427dc-ee98-42c0-b201-3b3f67aefb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hardcover' or . = 'Hardcover')]</value>
+      <webElementGuid>d0deaf37-e33c-4833-93da-9de6dfaa4066</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

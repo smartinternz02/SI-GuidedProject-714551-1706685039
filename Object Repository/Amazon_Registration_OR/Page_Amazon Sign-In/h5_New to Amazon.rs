@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_New to Amazon</name>
+   <tag></tag>
+   <elementGuidId>b5418104-7341-43e2-bc21-cf8746f97b10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='authportal-main-section']/div[2]/div[2]/div[2]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>60cd3cf7-30e6-47d8-b0c1-f4d62469eddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>e8d5469c-5a56-4f67-b141-2ed5f66b7041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New to Amazon?</value>
+      <webElementGuid>0e67301a-7907-4f17-afa6-49e3babe5be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;authportal-main-section&quot;)/div[@class=&quot;a-section auth-pagelet-container&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;a-divider a-divider-break&quot;]/h5[1]</value>
+      <webElementGuid>c224b776-5a97-482c-9491-e0875df2c875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div[2]/div[2]/h5</value>
+      <webElementGuid>cb53389c-a524-467e-9843-1346169a0384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>ae88772e-9058-452d-a13c-0df3b51c7682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'New to Amazon?' or . = 'New to Amazon?')]</value>
+      <webElementGuid>56ccb1ad-04c4-468a-b11d-c0aa4845848e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
